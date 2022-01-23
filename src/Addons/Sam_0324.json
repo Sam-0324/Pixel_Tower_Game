@@ -1,0 +1,22 @@
+{
+    "name":"Sam_0324",
+    
+    "atk":125,
+    "hp":12.5,
+    "sp":2.5,
+    "core":{
+        "name":"rad",
+        "mod":[{"obj":0,"opr":0,"am":-5.0}]
+    },
+    "eff":[
+        {
+            "name":"ptsd",
+            "time":"night",
+            "mod":[
+                {"obj":3,"opr":0,"am":1.0},
+                {"obj":1,"opr":6,"am":-10.0}
+            ]
+        }
+    ],
+    "mod":[]
+}
